@@ -4,77 +4,77 @@
 
 
 					<section id="content" class="widecol alignleft">
+
+
+
+
 					
-					
-						<!-- START WP_Query() Slider -->
-						<div class="slider-wrapper theme-default">
-							<div id="slider" class="nivoSlider">
-								<a href="" ><!-- get Custom Field page 205 --><img src="imgs/lg-slider.jpg" data-thumb="imgs/lg-slider.jpg" alt="" title=""  ><!-- modified on page 195 --></a>
-							</div><!-- slider -->
-						</div><!-- slider-wrapper -->
-						<!-- END WP_Query() Slider -->
-						
-						
 						<div id="posts">
-						
-							<h2 class="osc-cond txttranup">Uncategorized</h2><!-- modified on page 106 -->
-							
+
+
+
+
+					
+							<h2 class="osc-cond txttranup">You are viewing the "Uncategorized" Archives</h2><!-- modified on page 168 -->
+
+
+
+
 							<!-- START The Loop found on page 107 -->
-							<article class="post halfcol clear alignleft"><!-- Post Class page 248 --><!-- Loop structure built on pages 108-110 -->
+							<article class="halfcol clear alignleft"><!-- Post Class page 248 -->
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" /><!-- modified on page 108 and page 195-->
-								<h3><a href="" title="">About Jesse Friedman</a></h3><!-- modified on page 108-109 -->
-								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p><!-- modified on page 109 -->
+								<h3><a href="" title="">About Jesse Friedman</a></h3>
+								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcolrt alignleft">
+							<article class="halfcolrt alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcol clear alignleft">
+							<article class="halfcol clear alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcolrt alignleft">
+							<article class="halfcolrt alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcol clear alignleft">
+							<article class="halfcol clear alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcolrt alignleft">
+							<article class="halfcolrt alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcol clear alignleft">
+							<article class="halfcol clear alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcolrt alignleft">
+							<article class="halfcolrt alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcol clear alignleft">
+							<article class="halfcol clear alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
-							<article class="post halfcolrt alignleft">
+							<article class="halfcolrt alignleft">
 								<img width="260" height="175" src="imgs/lg-thumb.png" class="attachment-post-thumb wp-post-image" alt="" title="example" />
 								<h3><a href="" title="">About Jesse Friedman</a></h3>
 								<p class="meta">Posted <time datetime="2012-05-26" pubdate="pubdate">May 5</time> &#149; <a href="" title="">4 comments</a></p>
 							</article>
+							
+							
 							<!-- END The Loop found on page 107 -->
-						
-						
-						
-						<div class="clear"></div>
+							<div class="clear"></div>
 						</div><!-- posts -->
 						
 						
@@ -90,14 +90,14 @@
 							</ul>
 							<div class="clear"></div>
 						</nav><!-- .pagination -->
-						<!-- END Call to pagination function page 228 -->						
+						<!-- END Call to pagination function page 228 -->
+						
 						
 						
 						
 					</section>
-						
-						
-						
+					
+					
 					<!-- Start get_sidebar() -->	
 					<?php get_sidebar(); ?> <!-- created on page 126 -->
 					<!-- End get_sidebar() -->	
